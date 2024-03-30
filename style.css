@@ -1,0 +1,70 @@
+body { font-family: 'Poppins', sans-serif;
+}
+.box{
+    width: 610px;
+    height: 329px;
+    border-radius: 30px;
+    background-color:  #DBDBDB;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.box2{
+    width: 475px;
+    height: 56px;
+    border-radius: 20px;
+    background-color: #FEEEE2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: -50px;
+}
+.kontainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 15%;
+
+
+
+}
+
+#bar{
+    width: 219px;
+    height: 219px;
+    position: relative;
+    top: -45px;
+}
+
+#label{
+    position: relative;
+    top: -45px;
+}
+
+button {
+    width: 157px;
+    height: 41px;
+    border-radius: 12px;
+    border: none;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+    font-family: 'Poppins', sans-serif;
+}
+
+#btnyes {
+    background-color: #6fd240;
+  }
+  
+  #btnno {
+    background-color: #e12e2e;
+    color: white;
+  }
+  
+
+.Button{
+    position: relative;
+    top: -75px;
+    gap: 25px;
+    display: flex;
+}
